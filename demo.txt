@@ -1,1 +1,1 @@
-college : xyz-coimbatore
+college : xyz-bangalore
